@@ -3,7 +3,7 @@
 **_Question:- Write a program to create Loan Payment Schedule_**  
   
   
-![Payment Calculation](https://github.com/adipratapthakur/Loan-Payment-Scheduler-in-Python/blob/main/payment_calculation_formula.png?raw=true)  
+![Payment Calculation Formula Image](https://github.com/adipratapthakur/Loan-Payment-Scheduler-in-Python/blob/main/payment_calculation_formula.png?raw=true)  
   
 •	Interest is the rate you pay towards the loan, here it will be used as a decimal  
 •	(so for example: 5% is .05).  
@@ -18,7 +18,7 @@
 •	Compute the loan payment schedule over the lifetime of the loan using BeautifulTable  
 •	`pip install beautifultable` (https://pypi.org/project/beautifultable/)  
   
-## Solution
+## Run the Program
   
 1. Installing the beautifultable package  
   
@@ -26,5 +26,6 @@
   
 2. Run the Python Module `loan_payment_scheduler.py`  
   
-
+## Output
   
+![Output Image](https://github.com/adipratapthakur/Loan-Payment-Scheduler-in-Python/blob/main/Output.png?raw=true)

@@ -5,8 +5,7 @@
   
 ![Payment Calculation Formula Image](https://github.com/adipratapthakur/Loan-Payment-Scheduler-in-Python/blob/main/payment_calculation_formula.png?raw=true)  
   
-•	Interest is the rate you pay towards the loan, here it will be used as a decimal  
-•	(so for example: 5% is .05).  
+•	Interest is the rate you pay towards the loan, here it will be used as a decimal (so for example: 5% is .05).  
 •	The number of payments will be determined by how many years the loan is for multiplied by 12 (one payment per month).  
 •	If your loan is for less than a year, you can use a fraction (i.e. 9 months is .75)  
 •	Interest can be calculated by multiplying the interest rate and the current loan value  

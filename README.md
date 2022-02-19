@@ -1,6 +1,9 @@
 # Loan-Payment-Scheduler-in-Python
   
-Question:- Write a program to create Loan Payment Schedule  
+**_Question:- Write a program to create Loan Payment Schedule_**  
+  
+  
+![Payment Calculation](https://github.com/adipratapthakur/Loan-Payment-Scheduler-in-Python/blob/main/payment_calculation_formula.png?raw=true)  
   
 •	Interest is the rate you pay towards the loan, here it will be used as a decimal  
 •	(so for example: 5% is .05).  
@@ -14,6 +17,8 @@ Question:- Write a program to create Loan Payment Schedule
 •	Finally, the loan value is updated by subtracting the current months principle payment.  
 •	Compute the loan payment schedule over the lifetime of the loan using BeautifulTable  
 •	`pip install beautifultable` (https://pypi.org/project/beautifultable/)  
+  
+## Solution
   
 1. Installing the beautifultable package  
   
